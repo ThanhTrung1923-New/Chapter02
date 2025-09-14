@@ -23,4 +23,3 @@ THUỘC TÍNH TRONG HTML
 + thuộc tính src trong thẻ img
 
 THUỘC TÍNH TOÀN CỤC: có thể hoạt động trên mọi thẻ 
-// Đã chốt xog chương 2
