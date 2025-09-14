@@ -1,0 +1,26 @@
+HTML cung cấp các thẻ
++ HTML là ngôn ngữ đánh dấu siêu văn bản
++ HTML là ngôn ngữ đánh dấu, không phải ngôn ngữ lập trình
++ Siêu văn bản: là loại văn bản chứa nhiều loại dữ liệu khác nhau(âm thanh, hình ảnh, video...) và các siêu liên két
++ Cú pháp cơ bản của HTML bao gồm thẻ mở + thẻ đóng
++ DOCTYPE: --> dòng code đầu tiên được khai báo trong mọi file HTML
+           --> hướng dẫn cho trình duyệt web về phiên bản HTML mà trang web đag sử dụng
++ Thẻ meta: cung cấp thêm thông tin hiển thị website 
++ Thẻ head(thẻ con trực tiếp của thẻ html): các thẻ meta nằm ở đây
++ Thẻ body(thẻ con trực tiếp của thẻ html): chứa toàn bộ nội dung của trang web
+
+MỘT SỐ THẺ HTML THÔNG DỤNG
++ Thẻ h1, h2: thẻ tiêu đề
++ Thẻ p: thẻ đoạn văn bản
++ Thẻ b,i,u: in đậm, in nghiêng, gạch chân(bold, italic, underline)
++ Thẻ a(anchor): tạo ra đường link(có gạch chân) 
++ Thẻ img: thẻ ảnh/ logo
++ Thẻ ul, li: thẻ danh sách(có đầu mục) không có thứ tự
++ Thẻ ol, li: thẻ danh sách(có đầu mục) có thứ tự
+
+THUỘC TÍNH TRONG HTML
++ thuộc tính href trong thẻ a 
++ thuộc tính src trong thẻ img
+
+THUỘC TÍNH TOÀN CỤC: có thể hoạt động trên mọi thẻ 
+// Đã chốt xog chương 2
